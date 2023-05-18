@@ -1,0 +1,13 @@
+process,input (material/kg battery),input (material/kWh battery),EF (kg CO2/material),input (material/kg NMC111 powder)
+Li,0.00905,0.0635,0.0155,0.072
+Co,0.051,0.358,0.492,0.203
+Mn,0.0479,0.336,5.6,0.19
+Ni,0.051,0.358,1.07,0.203
+NMC111 powder,0.252,1.77,14.7,0
+Graphite,0.141,0.986,4.86,0
+PP,0.011,0.0774,2.53,0
+PE,0.00364,0.0255,2.93,0
+Cu,0.117,0.824,3.08,0
+Al,0.239,1.67,7.41,0
+electricity,0.101,0.712,0.997,0
+heat,0.0173,0.122,0.134,0

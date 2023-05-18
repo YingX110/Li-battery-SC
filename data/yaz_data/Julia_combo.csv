@@ -1,0 +1,37 @@
+﻿Country,Mining_Li,Mining_Co,Mining_Ni,Mining_Graphite,Mining_Mn,Processing_Li2CO3_LiOH,Processing_CoSO4_NiSO4,Processing_MnSO4,Production_Cathode,Production_Anode,Production_Separators,Production_Electrolytes,Production_Cell_Pack
+Argentina,1,0,0,0,0,1,0,0,0,0,0,0,0
+Australia,1,1,1,0,1,0,0,1,0,0,0,0,0
+Belgium,0,0,0,0,0,1,0,0,0,0,0,0,0
+Brazil,1,0,1,1,1,0,0,0,0,0,0,0,0
+Canada,0,1,1,1,0,1,0,0,0,0,0,0,0
+Chile,1,0,0,0,0,1,0,0,0,0,0,0,0
+China,1,1,1,1,1,1,1,1,1,1,1,1,1
+Congo,0,1,0,0,0,0,0,0,0,0,0,0,0
+Cote dIvoire,0,0,0,0,1,0,0,0,0,0,0,0,0
+Cuba,0,1,0,0,0,0,0,0,0,0,0,0,0
+Gabon,0,0,0,0,1,0,0,0,0,0,0,0,0
+Germany,0,0,0,0,0,1,1,1,0,0,0,0,1
+Ghana,0,0,0,0,1,0,0,0,0,0,0,0,0
+Hungary,0,0,0,0,0,0,0,0,0,0,0,0,1
+India,0,0,0,1,1,0,1,0,0,0,0,0,0
+Indonesia,0,1,1,0,0,0,1,1,0,0,0,0,0
+Japan,0,0,0,0,0,0,1,0,1,1,1,1,1
+Korea,0,0,0,0,0,1,1,0,1,1,1,1,1
+Madagascar,0,1,0,1,0,0,0,0,0,0,0,0,0
+Malaysia,0,0,0,0,1,0,0,0,0,0,0,0,0
+Morocco,0,1,0,0,0,0,0,0,0,0,0,0,0
+Mozambique,0,0,0,1,0,0,0,0,0,0,0,0,0
+Netherlands,0,0,0,0,0,0,1,1,0,0,0,0,0
+North Korea,0,0,0,1,0,0,0,0,0,0,0,0,0
+Norway,0,0,0,1,0,0,0,0,0,0,0,0,0
+Papua New Guinea,0,1,0,0,0,0,0,0,0,0,0,0,0
+Philippines,0,1,1,0,0,0,0,0,0,0,0,0,0
+Poland,0,0,0,0,0,0,0,0,0,0,0,0,1
+Portugal,1,0,0,0,0,0,0,0,0,0,0,0,0
+Russia,0,1,1,1,0,1,1,0,0,0,0,0,0
+South Africa,0,0,0,0,1,0,0,0,0,0,0,0,0
+Sri Lanka,0,0,0,1,0,0,0,0,0,0,0,0,0
+Ukraine,0,0,0,1,1,0,0,0,0,0,0,0,0
+United States,0,1,1,0,0,1,1,1,1,0,0,0,1
+Vietnam,0,0,0,1,0,0,0,0,0,0,0,0,0
+Zimbabwe,1,0,0,0,0,0,0,0,0,0,0,0,0

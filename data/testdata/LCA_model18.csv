@@ -1,0 +1,6 @@
+process,EF (kg CO2/material),input (material/kg NMC111 powder)
+Li,0.0155,0.072
+Co,0.492,0.203
+Mn,5.6,0.19
+Ni,1.07,0.203
+NMC111 powder,14.7,0

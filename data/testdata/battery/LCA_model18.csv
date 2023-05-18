@@ -1,0 +1,8 @@
+process,EF (kg CO2/material),input (material/kg battery)
+NMC111 powder,14.7,0.252
+Graphite,4.86,0.141
+PP,2.53,0.011
+PE,2.93,0.00364
+Cu,3.08,0.117
+Al,7.41,0.239
+battery production,0.1183,1

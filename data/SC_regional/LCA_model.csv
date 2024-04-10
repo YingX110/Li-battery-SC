@@ -1,0 +1,16 @@
+process,input (material/kg battery),scaler
+Li,1.10E-01,0.383
+Co,1.54E-01,0.536
+Mn,1.50E-01,0.522
+Ni,1.54E-01,0.535
+cathode,2.87E-01,0.396
+graphite,1.60E-01,0.221
+PP,1.16E-02,0.016
+PE,2.90E-03,0.004
+Cu,1.33E-01,0.095
+Al,6.89E-02,0.184
+cell,7.25E-01,0.725
+PET,1.52E-02,0.005
+electronics,3.70E-02,0.004
+noncell,1.00E+00,1
+battery,1.00E+00,1

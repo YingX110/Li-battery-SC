@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="main-svg"
+   width="488.39999"
+   height="361.0119"
+   viewBox="0 0 488.39999 361.0119"
+   version="1.1"
+   id="svg305"
+   sodipodi:docname="pareto_curve1.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata309">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2880"
+     inkscape:window-height="1514"
+     id="namedview307"
+     showgrid="false"
+     inkscape:zoom="0.834386"
+     inkscape:cx="289.77093"
+     inkscape:cy="-144.43481"
+     inkscape:window-x="2869"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg305" />
+  <defs
+     id="defs-d99a0d">
+    <g
+       class="clips"
+       id="g16">
+      <clipPath
+         id="clipd99a0dxyplot"
+         class="plotclip">
+        <rect
+           width="320"
+           height="260"
+           id="rect4"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipd99a0dx">
+        <rect
+           x="80"
+           y="0"
+           width="320"
+           height="400"
+           id="rect7" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipd99a0dy">
+        <rect
+           x="0"
+           y="60"
+           width="500"
+           height="260"
+           id="rect10" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipd99a0dxy">
+        <rect
+           x="80"
+           y="60"
+           width="320"
+           height="260"
+           id="rect13" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g18" />
+    <g
+       class="patterns"
+       id="g20" />
+  </defs>
+  <g
+     class="bglayer"
+     id="g23" />
+  <g
+     class="layer-below"
+     id="g29">
+    <g
+       class="imagelayer"
+       id="g25" />
+    <g
+       class="shapelayer"
+       id="g27" />
+  </g>
+  <g
+     class="cartesianlayer"
+     id="g177">
+    <g
+       class="subplot xy"
+       id="g175">
+      <g
+         class="layer-subplot"
+         id="g35">
+        <g
+           class="shapelayer"
+           id="g31" />
+        <g
+           class="imagelayer"
+           id="g33" />
+      </g>
+      <g
+         class="gridlayer"
+         id="g47">
+        <g
+           class="x"
+           id="g39">
+          <path
+             class="xgrid crisp"
+             transform="translate(293.33)"
+             d="M 0,60 V 320"
+             style="stroke:#ebf0f8;stroke-width:1px;stroke-opacity:1"
+             id="path37"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           class="y"
+           id="g45">
+          <path
+             class="ygrid crisp"
+             transform="translate(0,255)"
+             d="M 80,0 H 400"
+             style="stroke:#ebf0f8;stroke-width:1px;stroke-opacity:1"
+             id="path41"
+             inkscape:connector-curvature="0" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,190)"
+             d="M 80,0 H 400"
+             style="stroke:#ebf0f8;stroke-width:1px;stroke-opacity:1"
+             id="path43"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         class="zerolinelayer"
+         id="g53">
+        <path
+           class="xzl zl crisp"
+           transform="translate(160)"
+           d="M 0,60 V 320"
+           style="stroke:#ebf0f8;stroke-width:2px;stroke-opacity:1"
+           id="path49"
+           inkscape:connector-curvature="0" />
+        <path
+           class="yzl zl crisp"
+           transform="translate(0,125)"
+           d="M 80,0 H 400"
+           style="stroke:#ebf0f8;stroke-width:2px;stroke-opacity:1"
+           id="path51"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         class="xlines-below"
+         id="path55"
+         d=""
+         inkscape:connector-curvature="0" />
+      <path
+         class="ylines-below"
+         id="path57"
+         d=""
+         inkscape:connector-curvature="0" />
+      <g
+         class="overlines-below"
+         id="g59" />
+      <g
+         class="xaxislayer-below"
+         id="g61" />
+      <g
+         class="yaxislayer-below"
+         id="g63" />
+      <g
+         class="overaxes-below"
+         id="g65" />
+      <g
+         class="plot"
+         transform="translate(80,60)"
+         clip-path="url(#clipd99a0dxyplot)"
+         id="g131">
+        <g
+           class="scatterlayer mlayer"
+           id="g129">
+          <g
+             class="trace scatter trace742ee0"
+             style="opacity:1;stroke-miterlimit:2"
+             id="g89">
+            <g
+               class="fills"
+               id="g67" />
+            <g
+               class="errorbars"
+               id="g69" />
+            <g
+               class="lines"
+               id="g73">
+              <path
+                 class="js-line"
+                 d="m 105.69,184.86 48.44,28.34 48.54,13 48.53,7.8 48.53,3.9"
+                 style="opacity:1;vector-effect:non-scaling-stroke;fill:none;stroke:#636efa;stroke-width:2px;stroke-opacity:1"
+                 id="path71"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <g
+               class="points"
+               id="g85">
+              <path
+                 class="point"
+                 transform="translate(105.69,184.86)"
+                 d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+                 style="opacity:1;fill:#636efa;fill-opacity:1;stroke-width:0px"
+                 id="path75"
+                 inkscape:connector-curvature="0" />
+              <path
+                 class="point"
+                 transform="translate(154.13,213.2)"
+                 d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+                 style="opacity:1;fill:#636efa;fill-opacity:1;stroke-width:0px"
+                 id="path77"
+                 inkscape:connector-curvature="0" />
+              <path
+                 class="point"
+                 transform="translate(202.67,226.2)"
+                 d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+                 style="opacity:1;fill:#636efa;fill-opacity:1;stroke-width:0px"
+                 id="path79"
+                 inkscape:connector-curvature="0" />
+              <path
+                 class="point"
+                 transform="translate(251.2,234)"
+                 d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+                 style="opacity:1;fill:#636efa;fill-opacity:1;stroke-width:0px"
+                 id="path81"
+                 inkscape:connector-curvature="0" />
+              <path
+                 class="point"
+                 transform="translate(299.73,237.9)"
+                 d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+                 style="opacity:1;fill:#636efa;fill-opacity:1;stroke-width:0px"
+                 id="path83"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <g
+               class="text"
+               id="g87" />
+          </g>
+          <g
+             class="trace scatter trace14a2f1"
+             style="opacity:1;stroke-miterlimit:2"
+             id="g113">
+            <g
+               class="fills"
+               id="g91" />
+            <g
+               class="errorbars"
+               id="g93" />
+            <g
+               class="lines"
+               id="g97">
+              <path
+                 class="js-line"
+                 d="m 115.73,184.47 34.67,19.63 34.93,13 34.67,5.2 34.93,2.6"
+                 style="opacity:1;vector-effect:non-scaling-stroke;fill:none;stroke:#ef553b;stroke-width:2px;stroke-opacity:1"
+                 id="path95"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <g
+               class="points"
+               id="g109">
+              <path
+                 class="point"
+                 transform="translate(115.73,184.47)"
+                 d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+                 style="opacity:1;fill:#ef553b;fill-opacity:1;stroke-width:0px"
+                 id="path99"
+                 inkscape:connector-curvature="0" />
+              <path
+                 class="point"
+                 transform="translate(150.4,204.1)"
+                 d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+                 style="opacity:1;fill:#ef553b;fill-opacity:1;stroke-width:0px"
+                 id="path101"
+                 inkscape:connector-curvature="0" />
+              <path
+                 class="point"
+                 transform="translate(185.33,217.1)"
+                 d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+                 style="opacity:1;fill:#ef553b;fill-opacity:1;stroke-width:0px"
+                 id="path103"
+                 inkscape:connector-curvature="0" />
+              <path
+                 class="point"
+                 transform="translate(220,222.3)"
+                 d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+                 style="opacity:1;fill:#ef553b;fill-opacity:1;stroke-width:0px"
+                 id="path105"
+                 inkscape:connector-curvature="0" />
+              <path
+                 class="point"
+                 transform="translate(254.93,224.9)"
+                 d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+                 style="opacity:1;fill:#ef553b;fill-opacity:1;stroke-width:0px"
+                 id="path107"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <g
+               class="text"
+               id="g111" />
+          </g>
+          <g
+             class="trace scatter trace3b1d17"
+             style="opacity:1;stroke-miterlimit:2"
+             id="g127">
+            <g
+               class="fills"
+               id="g115" />
+            <g
+               class="errorbars"
+               id="g117" />
+            <g
+               class="lines"
+               id="g119" />
+            <g
+               class="points"
+               id="g123">
+              <path
+                 class="point"
+                 transform="translate(176.37,199.42)"
+                 d="M 5,0 A 5,5 0 1 1 0,-5 5,5 0 0 1 5,0 Z"
+                 style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0px"
+                 id="path121"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <g
+               class="text"
+               id="g125" />
+          </g>
+        </g>
+      </g>
+      <g
+         class="overplot"
+         id="g133" />
+      <path
+         class="xlines-above crisp"
+         d="M 0,0"
+         style="fill:none"
+         id="path135"
+         inkscape:connector-curvature="0" />
+      <path
+         class="ylines-above crisp"
+         d="M 0,0"
+         style="fill:none"
+         id="path137"
+         inkscape:connector-curvature="0" />
+      <g
+         class="overlines-above"
+         id="g139" />
+      <g
+         class="xaxislayer-above"
+         id="g149">
+        <g
+           class="xtick"
+           id="g143">
+          <text
+             x="0"
+             y="333"
+             transform="translate(160)"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:middle;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+             id="text141">0</text>
+        </g>
+        <g
+           class="xtick"
+           id="g147">
+          <text
+             x="0"
+             y="333"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:middle;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+             transform="translate(293.33)"
+             id="text145">5M</text>
+        </g>
+      </g>
+      <g
+         class="yaxislayer-above"
+         id="g171">
+        <g
+           class="ytick"
+           id="g153">
+          <text
+             x="79"
+             y="4.1999998"
+             transform="translate(0,320)"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:end;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+             id="text151">−15M</text>
+        </g>
+        <g
+           class="ytick"
+           id="g157">
+          <text
+             x="79"
+             y="4.1999998"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:end;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+             transform="translate(0,255)"
+             id="text155">−10M</text>
+        </g>
+        <g
+           class="ytick"
+           id="g161">
+          <text
+             x="79"
+             y="4.1999998"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:end;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+             transform="translate(0,190)"
+             id="text159">−5M</text>
+        </g>
+        <g
+           class="ytick"
+           id="g165">
+          <text
+             x="79"
+             y="4.1999998"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:end;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+             transform="translate(0,125)"
+             id="text163">0</text>
+        </g>
+        <g
+           class="ytick"
+           id="g169">
+          <text
+             x="79"
+             y="4.1999998"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:end;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+             transform="translate(0,60)"
+             id="text167">5M</text>
+        </g>
+      </g>
+      <g
+         class="overaxes-above"
+         id="g173" />
+    </g>
+  </g>
+  <g
+     class="polarlayer"
+     id="g179" />
+  <g
+     class="smithlayer"
+     id="g181" />
+  <g
+     class="ternarylayer"
+     id="g183" />
+  <g
+     class="geolayer"
+     id="g185" />
+  <g
+     class="funnelarealayer"
+     id="g187" />
+  <g
+     class="pielayer"
+     id="g189" />
+  <g
+     class="iciclelayer"
+     id="g191" />
+  <g
+     class="treemaplayer"
+     id="g193" />
+  <g
+     class="sunburstlayer"
+     id="g195" />
+  <g
+     class="glimages"
+     id="g197" />
+  <defs
+     id="topdefs-d99a0d">
+    <g
+       class="clips"
+       id="g199" />
+    <clipPath
+       id="legendd99a0d">
+      <rect
+         width="82"
+         height="86"
+         x="0"
+         y="0"
+         id="rect201" />
+    </clipPath>
+  </defs>
+  <g
+     class="layer-above"
+     id="g215">
+    <g
+       class="imagelayer"
+       id="g205" />
+    <g
+       class="shapelayer"
+       id="g213">
+      <path
+         data-index="0"
+         d="M 160,320 V 60"
+         clip-path="url(#clipd99a0dx)"
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-opacity:1"
+         id="path207"
+         inkscape:connector-curvature="0" />
+      <path
+         data-index="1"
+         d="M 80,125 H 400"
+         clip-path="url(#clipd99a0dy)"
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-opacity:1"
+         id="path209"
+         inkscape:connector-curvature="0" />
+      <path
+         data-index="2"
+         d="M 160,125 H 80 v 195 h 80 z"
+         clip-path="url(#clipd99a0dxy)"
+         style="opacity:0.4;fill:#32cd32;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+         id="path211"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <g
+     class="infolayer"
+     id="g303">
+    <g
+       class="legend"
+       pointer-events="all"
+       transform="translate(406.4,60)"
+       id="g291">
+      <rect
+         class="bg"
+         width="82"
+         height="86"
+         x="0"
+         y="0"
+         style="fill:#ffffff;fill-opacity:1;stroke:#444444;stroke-width:0px;stroke-opacity:1;shape-rendering:crispEdges"
+         id="rect217" />
+      <g
+         class="scrollbox"
+         clip-path="url(#legendd99a0d)"
+         id="g287">
+        <text
+           class="legendtitletext"
+           x="2"
+           y="18.200001"
+           style="font-size:14px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+           id="text219">source</text>
+        <g
+           class="groups"
+           id="g241">
+          <g
+             class="traces"
+             transform="translate(0,32.7)"
+             style="opacity:1"
+             id="g239">
+            <text
+               class="legendtext"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text221">model</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g235">
+              <g
+                 class="legendfill"
+                 id="g223" />
+              <g
+                 class="legendlines"
+                 id="g227">
+                <path
+                   class="js-line"
+                   d="M 5,0 H 35"
+                   style="fill:none;stroke:#636efa;stroke-width:2px;stroke-opacity:1"
+                   id="path225"
+                   inkscape:connector-curvature="0" />
+              </g>
+              <g
+                 class="legendsymbols"
+                 id="g233">
+                <g
+                   class="legendpoints"
+                   id="g231">
+                  <path
+                     class="scatterpts"
+                     transform="translate(20)"
+                     d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+                     style="opacity:1;fill:#636efa;fill-opacity:1;stroke-width:0px"
+                     id="path229"
+                     inkscape:connector-curvature="0" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="76.875"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect237" />
+          </g>
+        </g>
+        <g
+           class="groups"
+           id="g263">
+          <g
+             class="traces"
+             transform="translate(0,51.7)"
+             style="opacity:1"
+             id="g261">
+            <text
+               class="legendtext"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text243">tesla</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g257">
+              <g
+                 class="legendfill"
+                 id="g245" />
+              <g
+                 class="legendlines"
+                 id="g249">
+                <path
+                   class="js-line"
+                   d="M 5,0 H 35"
+                   style="fill:none;stroke:#ef553b;stroke-width:2px;stroke-opacity:1"
+                   id="path247"
+                   inkscape:connector-curvature="0" />
+              </g>
+              <g
+                 class="legendsymbols"
+                 id="g255">
+                <g
+                   class="legendpoints"
+                   id="g253">
+                  <path
+                     class="scatterpts"
+                     transform="translate(20)"
+                     d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+                     style="opacity:1;fill:#ef553b;fill-opacity:1;stroke-width:0px"
+                     id="path251"
+                     inkscape:connector-curvature="0" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="76.875"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect259" />
+          </g>
+        </g>
+        <g
+           class="groups"
+           id="g285">
+          <g
+             class="traces"
+             transform="translate(0,70.7)"
+             style="opacity:1"
+             id="g283">
+            <text
+               class="legendtext"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text265">Tesla</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g279">
+              <g
+                 class="legendfill"
+                 id="g267" />
+              <g
+                 class="legendlines"
+                 id="g271">
+                <path
+                   class="js-line"
+                   d="M 5,0 H 35"
+                   style="fill:none;stroke:#000000;stroke-width:2px;stroke-opacity:1"
+                   id="path269"
+                   inkscape:connector-curvature="0" />
+              </g>
+              <g
+                 class="legendsymbols"
+                 id="g277">
+                <g
+                   class="legendpoints"
+                   id="g275">
+                  <path
+                     class="scatterpts"
+                     transform="translate(20)"
+                     d="M 5,0 A 5,5 0 1 1 0,-5 5,5 0 0 1 5,0 Z"
+                     style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0px"
+                     id="path273"
+                     inkscape:connector-curvature="0" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="76.875"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect281" />
+          </g>
+        </g>
+      </g>
+      <rect
+         class="scrollbar"
+         rx="20"
+         ry="3"
+         width="0"
+         height="0"
+         x="0"
+         y="0"
+         style="fill:#808ba4;fill-opacity:1"
+         id="rect289" />
+    </g>
+    <g
+       class="g-gtitle"
+       id="g293" />
+    <g
+       class="g-xtitle"
+       id="g297">
+      <text
+         class="xtitle"
+         x="240"
+         y="360.79999"
+         style="font-weight:normal;font-size:14px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:middle;white-space:pre;opacity:1;fill:#2a3f5f"
+         id="text295">EO</text>
+    </g>
+    <g
+       class="g-ytitle"
+       id="g301">
+      <text
+         class="ytitle"
+         transform="rotate(-90,18.996875,190)"
+         x="18.996876"
+         y="190"
+         style="font-weight:normal;font-size:14px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:middle;white-space:pre;opacity:1;fill:#2a3f5f"
+         id="text299">SS</text>
+    </g>
+  </g>
+</svg>
